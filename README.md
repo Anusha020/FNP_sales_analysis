@@ -1,5 +1,6 @@
 **FNP_sales_analysis (Excel Project)**
 This is an Excel-based sales analysis project created to explore FNP’s 2023 sales performance. Using tools like Power Query, Power Pivot, Pivot Tables, and Excel formulas, the project provides business insights through a dynamic sales dashboard and a set of analytical reports.
+
 **Tools & Features Used**
 - Microsoft Excel 365
 - Power Query for data cleaning and transformation
