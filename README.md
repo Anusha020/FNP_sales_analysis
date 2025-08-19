@@ -1,3 +1,6 @@
+This project was created while following a tutorial by **Ayushi Jain**, a Sr.Data Analyst and Data Analytics Mentor.  
+The goal was to understand how a real-world data analysis project is structured from raw data to actionable insights.
+
 **FNP_sales_analysis (Excel Project)**
 
 This is an Excel-based sales analysis project created to explore FNP’s 2023 sales performance. Using tools like Power Query, Power Pivot, Pivot Tables, and Excel formulas, the project provides business insights through a dynamic sales dashboard.
