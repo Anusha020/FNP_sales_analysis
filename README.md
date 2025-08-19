@@ -23,6 +23,6 @@ This is an Excel-based sales analysis project created to explore FNP’s 2023 sa
 
 **Note**
 
-This was a guided project completed as a learning exercise. The goal was not just to practice Excel tools, but to understand the structure and thinking process behind real-world business reporting.
+This was a guided project completed as a learning exercise. The goal to understand the structure and thinking process behind real-world business reporting.
 
 I am currently working on original projects based on what I’ve learned.
