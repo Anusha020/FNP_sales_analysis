@@ -13,10 +13,16 @@ This is an Excel-based sales analysis project created to explore FNP’s 2023 sa
 - Excel formulas Index-Match, VLOOKUP, Correlation etc.
 - Slicers and Timelines
 - Charts for visualization (bar, line)
-  
+ 
  **Files in This Repository**
 - Sales_Dashboard.xlsx — Excel file containing all sheets (orders, products, pivot tables, dashboard)
 - problem-statement.pdf — Description of the business scenario
 - sales-insights.pdf — Final insights
 - dashboard-screenshot.png — Visual preview of the dashboard
 - README.md — This file
+
+**Note**
+
+This was a guided project completed as a learning exercise. The goal was not just to practice Excel tools, but to understand the structure and thinking process behind real-world business reporting.
+
+I am currently working on original projects based on what I’ve learned.
